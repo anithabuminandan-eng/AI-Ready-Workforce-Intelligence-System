@@ -1,0 +1,101 @@
+Employee_ID,Employee_Name,Department,City,Salary,Experience_Years,Performance_Rating,Status,HR Email id
+1,User1,Finance,Sharjah,12286,8,Low,Resigned,anitha.nadar@capgemini.com
+2,User2,Finance,Abu Dhabi,7595,2,High,Active,anitha.nadar@capgemini.com
+3,User3,Finance,Abu Dhabi,6620,4,Medium,On Leave,anitha.nadar@capgemini.com
+4,User4,Operations,Sharjah,5195,5,Medium,On Leave,anitha.nadar@capgemini.com
+5,User5,IT,Abu Dhabi,8468,1,Medium,Active,anitha.nadar@capgemini.com
+6,User6,Finance,Abu Dhabi,13088,1,Low,Active,anitha.nadar@capgemini.com
+7,User7,Operations,Dubai,13489,9,Medium,Active,anitha.nadar@capgemini.com
+8,User8,Operations,Dubai,9743,7,Low,Active,anitha.nadar@capgemini.com
+9,User9,HR,Abu Dhabi,10975,3,Low,Active,anitha.nadar@capgemini.com
+10,User10,IT,Dubai,10449,1,Low,Resigned,anitha.nadar@capgemini.com
+11,User11,Sales,Abu Dhabi,11361,8,High,On Leave,anitha.nadar@capgemini.com
+12,User12,Operations,Abu Dhabi,7389,10,Low,Resigned,anitha.nadar@capgemini.com
+13,User13,Sales,Abu Dhabi,15072,8,Low,On Leave,anitha.nadar@capgemini.com
+14,User14,Sales,Sharjah,5791,7,High,On Leave,anitha.nadar@capgemini.com
+15,User15,Operations,Abu Dhabi,8244,1,Medium,On Leave,anitha.nadar@capgemini.com
+16,User16,HR,Sharjah,15126,5,Medium,Active,anitha.nadar@capgemini.com
+17,User17,IT,Abu Dhabi,18499,3,Medium,Resigned,anitha.nadar@capgemini.com
+18,User18,IT,Sharjah,18691,8,Low,Resigned,anitha.nadar@capgemini.com
+19,User19,IT,Sharjah,8574,9,Low,On Leave,anitha.nadar@capgemini.com
+20,User20,IT,Dubai,11847,3,High,Resigned,anitha.nadar@capgemini.com
+21,User21,IT,Sharjah,15543,7,Low,Resigned,anitha.nadar@capgemini.com
+22,User22,HR,Abu Dhabi,6140,8,Low,On Leave,anitha.nadar@capgemini.com
+23,User23,IT,Sharjah,14748,10,High,Resigned,anitha.nadar@capgemini.com
+24,User24,Sales,Sharjah,17316,3,High,Resigned,anitha.nadar@capgemini.com
+25,User25,Operations,Sharjah,19247,5,Medium,On Leave,anitha.nadar@capgemini.com
+26,User26,Operations,Abu Dhabi,8230,5,Low,On Leave,anitha.nadar@capgemini.com
+27,User27,HR,Abu Dhabi,5660,7,Low,On Leave,anitha.nadar@capgemini.com
+28,User28,IT,Abu Dhabi,16610,6,Medium,Active,anitha.nadar@capgemini.com
+29,User29,Operations,Sharjah,7763,7,Medium,Active,anitha.nadar@capgemini.com
+30,User30,HR,Sharjah,6808,2,High,Active,anitha.nadar@capgemini.com
+31,User31,IT,Dubai,10662,1,High,Resigned,anitha.nadar@capgemini.com
+32,User32,IT,Sharjah,18176,8,High,Resigned,anitha.nadar@capgemini.com
+33,User33,Sales,Abu Dhabi,5459,2,High,On Leave,anitha.nadar@capgemini.com
+34,User34,Sales,Dubai,12010,10,Low,Resigned,anitha.nadar@capgemini.com
+35,User35,HR,Sharjah,14506,6,High,Active,anitha.nadar@capgemini.com
+36,User36,Finance,Abu Dhabi,11514,8,High,Resigned,anitha.nadar@capgemini.com
+37,User37,Finance,Abu Dhabi,7846,9,High,Active,anitha.nadar@capgemini.com
+38,User38,Sales,Abu Dhabi,19990,8,Low,On Leave,anitha.nadar@capgemini.com
+39,User39,Sales,Sharjah,10603,4,Low,Active,anitha.nadar@capgemini.com
+40,User40,Sales,Abu Dhabi,9850,3,High,On Leave,anitha.nadar@capgemini.com
+41,User41,Operations,Abu Dhabi,19913,5,Low,Resigned,anitha.nadar@capgemini.com
+42,User42,Sales,Dubai,15989,4,Low,On Leave,anitha.nadar@capgemini.com
+43,User43,Finance,Abu Dhabi,10460,7,High,Active,anitha.nadar@capgemini.com
+44,User44,IT,Sharjah,19162,4,Medium,Resigned,anitha.nadar@capgemini.com
+45,User45,IT,Abu Dhabi,5441,10,Medium,Resigned,anitha.nadar@capgemini.com
+46,User46,HR,Dubai,6592,1,Low,On Leave,anitha.nadar@capgemini.com
+47,User47,Finance,Sharjah,7960,9,High,Active,anitha.nadar@capgemini.com
+48,User48,Finance,Abu Dhabi,17129,5,Medium,Resigned,anitha.nadar@capgemini.com
+49,User49,HR,Sharjah,19546,2,Low,On Leave,anitha.nadar@capgemini.com
+50,User50,IT,Abu Dhabi,11403,6,High,Resigned,anitha.nadar@capgemini.com
+51,User51,Sales,Sharjah,16939,8,Low,Resigned,anitha.nadar@capgemini.com
+52,User52,IT,Sharjah,7743,3,High,Resigned,anitha.nadar@capgemini.com
+53,User53,IT,Sharjah,6183,3,Medium,On Leave,anitha.nadar@capgemini.com
+54,User54,Operations,Dubai,12552,2,Medium,On Leave,anitha.nadar@capgemini.com
+55,User55,HR,Abu Dhabi,19302,2,Low,Active,anitha.nadar@capgemini.com
+56,User56,Operations,Dubai,11241,7,High,Active,anitha.nadar@capgemini.com
+57,User57,Operations,Abu Dhabi,9021,2,Low,Resigned,anitha.nadar@capgemini.com
+58,User58,Finance,Abu Dhabi,8786,2,Medium,Resigned,anitha.nadar@capgemini.com
+59,User59,Finance,Sharjah,6998,2,Low,Resigned,anitha.nadar@capgemini.com
+60,User60,Finance,Dubai,13360,7,Low,Active,anitha.nadar@capgemini.com
+61,User61,Operations,Abu Dhabi,6395,5,Medium,On Leave,anitha.nadar@capgemini.com
+62,User62,Sales,Sharjah,6144,1,Low,Active,anitha.nadar@capgemini.com
+63,User63,Sales,Abu Dhabi,5225,5,Low,On Leave,anitha.nadar@capgemini.com
+64,User64,HR,Dubai,14625,2,High,Resigned,anitha.nadar@capgemini.com
+65,User65,IT,Sharjah,11219,3,High,On Leave,anitha.nadar@capgemini.com
+66,User66,IT,Abu Dhabi,11198,1,Medium,Resigned,anitha.nadar@capgemini.com
+67,User67,Sales,Sharjah,9969,2,High,Active,anitha.nadar@capgemini.com
+68,User68,Finance,Sharjah,6712,3,Low,Active,anitha.nadar@capgemini.com
+69,User69,Sales,Dubai,5348,2,Medium,Resigned,anitha.nadar@capgemini.com
+70,User70,Operations,Dubai,9595,5,High,Active,anitha.nadar@capgemini.com
+71,User71,HR,Sharjah,17734,5,High,Active,anitha.nadar@capgemini.com
+72,User72,HR,Dubai,14819,5,Medium,On Leave,anitha.nadar@capgemini.com
+73,User73,HR,Sharjah,5529,10,Low,Resigned,anitha.nadar@capgemini.com
+74,User74,Sales,Abu Dhabi,8275,6,Medium,Resigned,anitha.nadar@capgemini.com
+75,User75,IT,Sharjah,11187,2,High,Active,anitha.nadar@capgemini.com
+76,User76,IT,Sharjah,11346,3,Low,Active,anitha.nadar@capgemini.com
+77,User77,Sales,Dubai,12459,2,Medium,On Leave,anitha.nadar@capgemini.com
+78,User78,Sales,Sharjah,6204,8,Low,On Leave,anitha.nadar@capgemini.com
+79,User79,Operations,Dubai,5431,2,Medium,Resigned,anitha.nadar@capgemini.com
+80,User80,Operations,Abu Dhabi,18567,7,High,On Leave,anitha.nadar@capgemini.com
+81,User81,Sales,Sharjah,10436,8,Medium,Active,anitha.nadar@capgemini.com
+82,User82,Sales,Sharjah,18788,3,Low,Resigned,anitha.nadar@capgemini.com
+83,User83,HR,Sharjah,18857,10,Low,On Leave,anitha.nadar@capgemini.com
+84,User84,HR,Abu Dhabi,9369,1,Medium,Resigned,anitha.nadar@capgemini.com
+85,User85,Finance,Abu Dhabi,19754,3,Medium,Active,anitha.nadar@capgemini.com
+86,User86,IT,Dubai,6741,4,Medium,Active,anitha.nadar@capgemini.com
+87,User87,Operations,Dubai,19524,8,High,On Leave,anitha.nadar@capgemini.com
+88,User88,Operations,Abu Dhabi,13620,8,Medium,Active,anitha.nadar@capgemini.com
+89,User89,IT,Sharjah,18345,8,High,Resigned,anitha.nadar@capgemini.com
+90,User90,Sales,Abu Dhabi,14615,9,Low,Active,anitha.nadar@capgemini.com
+91,User91,Operations,Dubai,13505,9,High,Resigned,anitha.nadar@capgemini.com
+92,User92,Operations,Dubai,13947,9,High,On Leave,anitha.nadar@capgemini.com
+93,User93,Sales,Abu Dhabi,10736,10,Low,Active,anitha.nadar@capgemini.com
+94,User94,Operations,Abu Dhabi,6468,3,High,On Leave,anitha.nadar@capgemini.com
+95,User95,Operations,Sharjah,13153,5,High,Resigned,anitha.nadar@capgemini.com
+96,User96,Operations,Abu Dhabi,6954,8,Low,Resigned,anitha.nadar@capgemini.com
+97,User97,Finance,Dubai,7754,6,Low,Resigned,anitha.nadar@capgemini.com
+98,User98,Finance,Dubai,12419,10,Low,On Leave,anitha.nadar@capgemini.com
+99,User99,Operations,Sharjah,17077,8,High,Active,anitha.nadar@capgemini.com
+100,User100,IT,Abu Dhabi,11612,7,Low,Active,anitha.nadar@capgemini.com
