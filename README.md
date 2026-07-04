@@ -1,2 +1,3 @@
 # AI-Ready-Workforce-Intelligence-System
-An end-to-end Workforce Intelligence solution leveraging SQL, Python, Power BI, and Power Automate to automate HR analytics, workforce risk monitoring, KPI reporting, and executive decision support.
+
+An enterprise-grade workforce analytics solution built using SQL, Python, Power BI, and Power Automate to provide automated workforce intelligence, employee risk assessment, high-performer identification, KPI monitoring, and executive reporting.
